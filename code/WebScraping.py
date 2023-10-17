@@ -4,8 +4,8 @@ import cgi
 import requests
 
 # Set your API key and Custom Search Engine ID
-api_key = "AIzaSyBfgW2oEnVPwiley1tuRLLq8YZi5KrbZEY"
-cse_id = "36a53bad4172b4faa"
+api_key = "API KEY of Custom Search Engine "
+cse_id = "Custom Search Engine ID"
 
 form = cgi.FieldStorage()
 
